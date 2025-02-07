@@ -2,7 +2,6 @@
 
 ## Description
 This repository is the official implementation of paper "Enhancement of structural and functional photoacoustic imaging based on a reference-inputted convolutional neural network."
-We propose a reference-inputted convolutional neural network (Ri-Net) for PA signal denoising . The input feature of the network comprises the spectra of the detected PA signal and the environment noise from another channel. Both signals are transformed into the frequency domain using the Fast Fourier Transform (FFT). The frequency spectrum of the two signals is then concatenated to form a comprehensive set of input features.
 
 ## Instructions
 
